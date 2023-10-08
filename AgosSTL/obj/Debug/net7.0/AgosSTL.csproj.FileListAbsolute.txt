@@ -1,0 +1,12 @@
+C:\Users\eunggi\Documents\Test Code\etc\AgosSTL\AgosSTL\bin\Debug\net7.0\AgosSTL.deps.json
+C:\Users\eunggi\Documents\Test Code\etc\AgosSTL\AgosSTL\bin\Debug\net7.0\AgosSTL.dll
+C:\Users\eunggi\Documents\Test Code\etc\AgosSTL\AgosSTL\bin\Debug\net7.0\AgosSTL.pdb
+C:\Users\eunggi\Documents\Test Code\etc\AgosSTL\AgosSTL\obj\Debug\net7.0\AgosSTL.csproj.AssemblyReference.cache
+C:\Users\eunggi\Documents\Test Code\etc\AgosSTL\AgosSTL\obj\Debug\net7.0\AgosSTL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eunggi\Documents\Test Code\etc\AgosSTL\AgosSTL\obj\Debug\net7.0\AgosSTL.AssemblyInfoInputs.cache
+C:\Users\eunggi\Documents\Test Code\etc\AgosSTL\AgosSTL\obj\Debug\net7.0\AgosSTL.AssemblyInfo.cs
+C:\Users\eunggi\Documents\Test Code\etc\AgosSTL\AgosSTL\obj\Debug\net7.0\AgosSTL.csproj.CoreCompileInputs.cache
+C:\Users\eunggi\Documents\Test Code\etc\AgosSTL\AgosSTL\obj\Debug\net7.0\AgosSTL.dll
+C:\Users\eunggi\Documents\Test Code\etc\AgosSTL\AgosSTL\obj\Debug\net7.0\refint\AgosSTL.dll
+C:\Users\eunggi\Documents\Test Code\etc\AgosSTL\AgosSTL\obj\Debug\net7.0\AgosSTL.pdb
+C:\Users\eunggi\Documents\Test Code\etc\AgosSTL\AgosSTL\obj\Debug\net7.0\ref\AgosSTL.dll
