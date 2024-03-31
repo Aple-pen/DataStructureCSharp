@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgosSTL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9149315e6bfd7c79efbe8cff97f8eb0f7f516a07")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgosSTL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgosSTL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

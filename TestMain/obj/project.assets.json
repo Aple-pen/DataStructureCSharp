@@ -8,36 +8,25 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\eunggi\\.nuget\\packages\\": {},
-    "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/eunggikim/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eunggi\\Documents\\Test Code\\etc\\AgosSTL\\TestMain\\TestMain.csproj",
+      "projectUniqueName": "/Users/eunggikim/RiderProjects/DataStructureCSharp/TestMain/TestMain.csproj",
       "projectName": "TestMain",
-      "projectPath": "C:\\Users\\eunggi\\Documents\\Test Code\\etc\\AgosSTL\\TestMain\\TestMain.csproj",
-      "packagesPath": "C:\\Users\\eunggi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eunggi\\Documents\\Test Code\\etc\\AgosSTL\\TestMain\\obj\\",
+      "projectPath": "/Users/eunggikim/RiderProjects/DataStructureCSharp/TestMain/TestMain.csproj",
+      "packagesPath": "/Users/eunggikim/.nuget/packages/",
+      "outputPath": "/Users/eunggikim/RiderProjects/DataStructureCSharp/TestMain/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\eunggi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/eunggikim/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -50,6 +39,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -66,12 +60,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.17, 7.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-arm64",
+            "version": "[7.0.17, 7.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.17, 7.0.17]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/RuntimeIdentifierGraph.json"
       }
     }
   }

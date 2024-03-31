@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "8Uay6efaUn2Md9RNRY+B0MN4IdDMJeXGYOznTpgVRQFLMW5UQPbUTpqimAovbbDS0FGWM4ZVm9TxwxiacJhzpQ==",
+  "dgSpecHash": "f8rLUgSrZphGEfW+JV0Jx92rAI9dGJobPLf6uegxi6xAxAMGpyNC3FFX5SQX3IA/H8KF5Eyp7Hn+mL5wSTfVFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eunggi\\Documents\\Test Code\\etc\\AgosSTL\\AgosSTL\\AgosSTL.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/eunggikim/RiderProjects/DataStructureCSharp/AgosSTL/AgosSTL.csproj",
+  "expectedPackageFiles": [
+    "/Users/eunggikim/.nuget/packages/microsoft.netcore.app.ref/7.0.17/microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "/Users/eunggikim/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.17/microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -2,7 +2,7 @@
 
 using TestMain;
 
-class Node_Data
+struct Node_Data
 {
     private string name;
     private int age;
@@ -24,29 +24,24 @@ class Program
 {
     static void Main(string[] args)
     {
-        void PrintAllNodes(A_LinkedList<Node_Data> linkedList)
-        {
-            var r = linkedList.GetNode();
-            while (r.next != null)
-            {
-                r.next.data.PrintAllValues();
-                r = r.next;
-            }
-        }
-        
-        
-        A_LinkedList<Node_Data> linkedList = new A_LinkedList<Node_Data>();
-        linkedList.InsertFront(new Node_Data("eunggi",35));
-        linkedList.InsertRear(new Node_Data("rear",34));
-        linkedList.InsertFront(new Node_Data("juhee",34));
-        linkedList.InsertFront(new Node_Data("front",34));
-        linkedList.RemoveRear();
-        linkedList.RemoveRear();
-        linkedList.InsertFront(new Node_Data("juhee",34));
-        linkedList.InsertFront(new Node_Data("front",34));
-        linkedList.RemoveRear();
+        BinaryTree binaryTree1 = new BinaryTree(1);
+        BinaryTree binaryTree2= new BinaryTree(2);
+        BinaryTree binaryTree3 = new BinaryTree(3);
+        BinaryTree binaryTree4 = new BinaryTree(4);
+        BinaryTree binaryTree5 = new BinaryTree(5);
+        BinaryTree binaryTree6 = new BinaryTree(6);
+        BinaryTree binaryTree7 = new BinaryTree(7);
 
+        binaryTree1.LeftSubTree = binaryTree2;
+        binaryTree1.RightSubTree = binaryTree3;
+
+        binaryTree2.LeftSubTree = binaryTree4;
+        binaryTree2.RightSubTree = binaryTree5;
+
+        binaryTree3.LeftSubTree = binaryTree6;
+        binaryTree3.RightSubTree = binaryTree7;
         
-        PrintAllNodes(linkedList);
+        
+        binaryTree1.PreOrderTraversal(binaryTree1);
     }
 }
